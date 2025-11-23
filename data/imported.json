@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Example Recipe",
+    "source": "Test Cookbook",
+    "collections": [
+      "Test"
+    ],
+    "description": "This is an example recipe for testing",
+    "notes": "This recipe is just for demonstration",
+    "servings": "4 servings",
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "ingredients": [
+      "2 tablespoons olive oil",
+      "1 pound chicken breast",
+      "1 teaspoon salt"
+    ],
+    "steps": [
+      "Preheat oven to 375°F",
+      "Season the chicken with salt",
+      "Cook for 30 minutes"
+    ]
+  }
+]

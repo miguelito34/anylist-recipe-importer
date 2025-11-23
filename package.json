@@ -1,0 +1,24 @@
+{
+  "name": "anylist-recipe-importer",
+  "version": "1.0.0",
+  "description": "Batch import recipes into AnyList from JSON files",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "import": "node src/index.js"
+  },
+  "keywords": [
+    "anylist",
+    "recipes",
+    "import",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anylist": "^0.8.5",
+    "dotenv": "^16.4.5"
+  }
+}
+
